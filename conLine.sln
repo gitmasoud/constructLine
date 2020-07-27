@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conLine", "conLine\conLine.csproj", "{AD722DBC-ED90-4D6E-9BD9-42E3ED92A844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conLineTests", "conLineTests\conLineTests.csproj", "{CACC919D-4F39-4655-AFB4-A861E356137B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD722DBC-ED90-4D6E-9BD9-42E3ED92A844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD722DBC-ED90-4D6E-9BD9-42E3ED92A844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD722DBC-ED90-4D6E-9BD9-42E3ED92A844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD722DBC-ED90-4D6E-9BD9-42E3ED92A844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACC919D-4F39-4655-AFB4-A861E356137B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACC919D-4F39-4655-AFB4-A861E356137B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACC919D-4F39-4655-AFB4-A861E356137B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACC919D-4F39-4655-AFB4-A861E356137B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E66CFD2-9359-48D2-861C-2DAF5D47483B}
+	EndGlobalSection
+EndGlobal

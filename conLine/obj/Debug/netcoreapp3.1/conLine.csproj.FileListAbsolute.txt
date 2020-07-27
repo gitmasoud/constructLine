@@ -1,0 +1,15 @@
+C:\Users\shu\source\repos\conLine\conLine\bin\Debug\netcoreapp3.1\conLine.exe
+C:\Users\shu\source\repos\conLine\conLine\bin\Debug\netcoreapp3.1\conLine.deps.json
+C:\Users\shu\source\repos\conLine\conLine\bin\Debug\netcoreapp3.1\conLine.runtimeconfig.json
+C:\Users\shu\source\repos\conLine\conLine\bin\Debug\netcoreapp3.1\conLine.runtimeconfig.dev.json
+C:\Users\shu\source\repos\conLine\conLine\bin\Debug\netcoreapp3.1\conLine.dll
+C:\Users\shu\source\repos\conLine\conLine\bin\Debug\netcoreapp3.1\conLine.pdb
+C:\Users\shu\source\repos\conLine\conLine\obj\Debug\netcoreapp3.1\conLine.csprojAssemblyReference.cache
+C:\Users\shu\source\repos\conLine\conLine\obj\Debug\netcoreapp3.1\conLine.AssemblyInfoInputs.cache
+C:\Users\shu\source\repos\conLine\conLine\obj\Debug\netcoreapp3.1\conLine.AssemblyInfo.cs
+C:\Users\shu\source\repos\conLine\conLine\obj\Debug\netcoreapp3.1\conLine.dll
+C:\Users\shu\source\repos\conLine\conLine\obj\Debug\netcoreapp3.1\conLine.pdb
+C:\Users\shu\source\repos\conLine\conLine\obj\Debug\netcoreapp3.1\conLine.genruntimeconfig.cache
+C:\Users\shu\source\repos\conLine\conLine\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\shu\source\repos\conLine\conLine\obj\Debug\netcoreapp3.1\conLine.csproj.CoreCompileInputs.cache
+C:\Users\shu\source\repos\conLine\conLine\obj\Debug\netcoreapp3.1\conLine.csproj.CopyComplete
